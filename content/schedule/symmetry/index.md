@@ -16,6 +16,6 @@ Throughout the talk we will venture through the world of symmetry, exploring the
 
 --- 
 
-[Torgeir Aambø]() is a PhD student in mathematics at NTNU. His research area is topology, a field of mathematics that tries to understand mathematical shapes and abstract geometries. 
+[Torgeir Aambø](https://folk.ntnu.no/torgeaam/) is a PhD student in mathematics at NTNU. His research area is topology, a field of mathematics that tries to understand mathematical shapes and abstract geometries. 
 
 <img src="images/symmetry1.png#invert" alt="Error loading image" width="700"/>

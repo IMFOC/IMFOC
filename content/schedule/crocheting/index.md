@@ -12,6 +12,6 @@ Description TBA
 
 ---
 
-[Emma Sofie Skarstein]() is a PhD student in mathematics at NTNU. Research info. 
+[Emma Sofie Skarstein](https://emmaskarstein.github.io) is a PhD student in mathematics at NTNU. Research info. 
 
 <img src="images/crochette1.jpg#invert" alt="Error loading image" width="700"/>

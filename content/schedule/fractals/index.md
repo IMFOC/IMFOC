@@ -12,6 +12,6 @@ Description TBA
 
 ---
 
-[Karl-Mikael Perfekt]() is an associate professor in mathematics at NTNU. Research info.
+[Karl-Mikael Perfekt](https://kmperfekt.com/) is an associate professor in mathematics at NTNU. Research info.
 
 <img src="images/fractal1.jpg#invert" alt="Error loading image" width="700"/>
