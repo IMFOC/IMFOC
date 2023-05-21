@@ -1,3 +1,3 @@
-# Young Homotopy-theorist Online Meeting
+# IMF Outreach Committee
 
-Files for the seminar webpage. Maintained by Torgeir Aambø
+Outreach committe of NTNUs department of mathematical sciences. Maintained by Torgeir Aambø
