@@ -1,0 +1,89 @@
+baseURL: "https://imfoc.github.io/"
+title: AM
+paginate: 10
+theme: PaperMod
+copyright: " "
+publishDir: docs
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: false
+enableEmoji: true
+
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+
+
+    
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+menu:
+    main:   
+      - name: Schedule
+        url: schedule/
+        weight: 5  
+      - name: About
+        url: about/
+        weight: 10
+
+
+
+
+
+params:
+    # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "The art of mathematics"
+    author: 
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    displayFullLangName: false
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: true
+    ShowToc: false
+    cover:
+        responsiveImages: true
+        hiddenInSingle: true 
+    # hidesummary: true
+    # comments: true
+
+    # images: ["papermod-cover.png"]
+
+#    homeInfoParams:
+#        Title: The art of mathematics
+#        Content: > 
+#                  ![Error loading image](frontpage.png)
+                 
+
+    profileMode:
+          enabled: true
+          title: The art of mathematics
+          imageUrl: "cover.png"
+          imageTitle: 
+          imageWidth: 440
+          imageHeight: 450
+          subtitle: ""
+
+taxonomies:
+    category: categories
+    tag: tags
+
+markup:
+     goldmark:
+        renderer:
+            unsafe: true
+
+
+    

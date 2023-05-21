@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AM</title>
+    <link>https://imfoc.github.io/</link>
+    <description>Recent content on AM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright><atom:link href="https://imfoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum music</title>
+      <link>https://imfoc.github.io/schedule/quantum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imfoc.github.io/schedule/quantum/</guid>
+      <description>Hans Heum</description>
+    </item>
+    
+    <item>
+      <title>Crocheting</title>
+      <link>https://imfoc.github.io/schedule/crocheting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imfoc.github.io/schedule/crocheting/</guid>
+      <description>Emma Sofie Skarstein</description>
+    </item>
+    
+    <item>
+      <title>Freaky fractals</title>
+      <link>https://imfoc.github.io/schedule/fractals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imfoc.github.io/schedule/fractals/</guid>
+      <description>Kael-Mikael Perfekt</description>
+    </item>
+    
+    <item>
+      <title>Sudoku</title>
+      <link>https://imfoc.github.io/schedule/sudoku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imfoc.github.io/schedule/sudoku/</guid>
+      <description>Laertis Vaso</description>
+    </item>
+    
+    <item>
+      <title>Symmetryrtemmys</title>
+      <link>https://imfoc.github.io/schedule/symmetry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imfoc.github.io/schedule/symmetry/</guid>
+      <description>Torgeir Aambø</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://imfoc.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imfoc.github.io/about/</guid>
+      <description>Mathematics is often associated with strict rules, complicated language, rigor and absolute logic – especially inside the world of science. It is perhaps the fundamental backbone of the scientific process, and there is few who doubt its importance in this setting. But, mathematics is not just a tool one can use to do engineering, calculate physical properties, do statistics on society or make models for the spread of a virus. It is also an artform.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
