@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://imfoc.github.io/schedule/quantum/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/schedule/crocheting/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/schedule/fractals/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/schedule/sudoku/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/schedule/symmetry/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/about/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/archives/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/categories/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/schedule/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/search/</loc>
-  </url><url>
-    <loc>https://imfoc.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://imfoc.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://imfoc.github.io/tr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

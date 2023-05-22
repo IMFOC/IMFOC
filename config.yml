@@ -10,6 +10,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: true
 buildExpired: false
+pygmentsUseClasses: true
 enableEmoji: true
 
 
@@ -17,7 +18,55 @@ minify:
     disableXML: true
     # minifyOutput: true
 
+languages:
+    en:
+        languageName: ":flag_gb: English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        profileMode:
+          enabled: true
+          title: The art of mathematics
+          imageUrl: "cover.png"
+          imageTitle: 
+          imageWidth: 440
+          imageHeight: 450
+          subtitle: ""
+        menu:
+          main:   
+          - name: Schedule
+            url: schedule/
+            weight: 5  
+          - name: About
+            url: about/
+            weight: 10
 
+    tr:
+        languageName: ":flag_no: Norsk"
+        weight: 2
+        title: MK
+        taxonomies:
+          category: NOcategories
+          tag: NOtags
+          series: NOseries
+        profileMode:
+          enabled: true
+          title: Matematikkens kunst
+          imageUrl: "cover.png"
+          imageTitle: test
+          imageWidth: 440
+          imageHeight: 450
+          subtitle: ""
+        menu:
+          main:   
+          - name: Oversikt
+            url: schedule/
+            weight: 5  
+          - name: Om
+            url: about/
+            weight: 10
 
     
 outputs:
@@ -25,16 +74,6 @@ outputs:
         - HTML
         - RSS
         - JSON
-
-menu:
-    main:   
-      - name: Schedule
-        url: schedule/
-        weight: 5  
-      - name: About
-        url: about/
-        weight: 10
-
 
 
 
@@ -49,32 +88,25 @@ params:
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
-    displayFullLangName: false
+    displayFullLangName: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: true
     ShowToc: false
     cover:
         responsiveImages: true
-        hiddenInSingle: true 
+        hiddenInSingle: true
     # hidesummary: true
     # comments: true
 
     # images: ["papermod-cover.png"]
 
-#    homeInfoParams:
-#        Title: The art of mathematics
-#        Content: > 
-#                  ![Error loading image](frontpage.png)
+    # homeInfoParams:
+    #     Title: The art of mathematics
+    #     Content: > 
+    #               ![Error loading image](cover.png)
                  
 
-    profileMode:
-          enabled: true
-          title: The art of mathematics
-          imageUrl: "cover.png"
-          imageTitle: 
-          imageWidth: 440
-          imageHeight: 450
-          subtitle: ""
+
 
 taxonomies:
     category: categories

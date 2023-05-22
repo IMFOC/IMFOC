@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MK</title>
+    <link>https://imfoc.github.io/tr/</link>
+    <description>Recent content on MK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright><atom:link href="https://imfoc.github.io/tr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Om</title>
+      <link>https://imfoc.github.io/tr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imfoc.github.io/tr/about/</guid>
+      <description>Matematikk er ofte forbundet med strenge regler, kompliserte begreper, rigorøsitet og absolutthet - spesielt innenfor vitenskapens verden. Matematikk er selve ryggraden i all vitenskap, og det er få i samfunnet som tviler på viktigheten av matematikk i disse sammenhengene. Men matematikk er ikke bare et verktøy man kan bruke til å bedrive ingeniørvitenskap, regne ut fysiske egenskaper, gjøre statistikk på befolkninger eller lage modeller av virusspredning. Det er også en kunstform.</description>
+    </item>
+    
+  </channel>
+</rss>
