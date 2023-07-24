@@ -5,10 +5,30 @@
     <loc>https://imfoc.github.io/schedule/quantum/</loc>
   </url><url>
     <loc>https://imfoc.github.io/schedule/crocheting/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://imfoc.github.io/tr/schedule/crocheting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imfoc.github.io/schedule/crocheting/"
+                />
   </url><url>
     <loc>https://imfoc.github.io/schedule/fractals/</loc>
   </url><url>
     <loc>https://imfoc.github.io/schedule/sudoku/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://imfoc.github.io/tr/schedule/sudoku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imfoc.github.io/schedule/sudoku/"
+                />
   </url><url>
     <loc>https://imfoc.github.io/schedule/symmetry/</loc>
   </url><url>
