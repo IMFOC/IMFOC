@@ -31,6 +31,16 @@
                 />
   </url><url>
     <loc>https://imfoc.github.io/schedule/symmetry/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://imfoc.github.io/tr/schedule/symmetry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imfoc.github.io/schedule/symmetry/"
+                />
   </url><url>
     <loc>https://imfoc.github.io/about/</loc>
     <xhtml:link
