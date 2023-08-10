@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://imfoc.github.io/schedule/quantum/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://imfoc.github.io/tr/schedule/quantum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imfoc.github.io/schedule/quantum/"
+                />
   </url><url>
     <loc>https://imfoc.github.io/schedule/crocheting/</loc>
     <xhtml:link
