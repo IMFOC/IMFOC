@@ -27,6 +27,16 @@
                 />
   </url><url>
     <loc>https://imfoc.github.io/schedule/fractals/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://imfoc.github.io/tr/schedule/fractals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imfoc.github.io/schedule/fractals/"
+                />
   </url><url>
     <loc>https://imfoc.github.io/schedule/sudoku/</loc>
     <xhtml:link

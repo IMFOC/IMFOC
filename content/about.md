@@ -11,6 +11,10 @@ Mathematics is often associated with strict rules, complicated concepts, rigor, 
 
 If you talk to a mathematician, this person would likely say that mathematics is very creative work, something that many outside the field often find a strange claim. It perhaps feels even stranger to talk about art in mathematics, and conversely, mathematics in art. Through five lectures from five mathematicians with backgrounds from five different disciplines, we will explore precisely this: the deep and intricate connections and interactions between the two seemingly separate worlds of mathematics and art.
 
+---
 
-*The art of mathematics* is an event during the [Hyfer](https://www.hyfer.no/) festival in Trondheim, organized by the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at NTNU. 
+*The art of mathematics* is an event during the [Hyfer](https://www.hyfer.no/en/) festival in Trondheim, organized by the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at NTNU. 
 
+The event is free, but tickets have to be reserved [here](https://tix.no/nb/hyfer/buyingflow/tickets/24098/46081/). 
+
+More information about the event can be found in the [festival program](https://www.hyfer.no/en/event/art-of-mathematics). 

@@ -12,6 +12,6 @@ What are the connections between quantum computers and music? This question has 
 
 ---
 
-[Hans Heum](https://www.ntnu.edu/employees/hans.heum) is a post doc. in mathematics at NTNU. Research info.
+[Hans Heum](https://www.ntnu.edu/employees/hans.heum) is a post doc. in mathematics at NTNU. 
 
 <img src="images/quantum3.png#invert" alt="Error loading image" width="700"/>

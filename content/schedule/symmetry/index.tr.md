@@ -1,5 +1,5 @@
 ---
-title: "Symmetrirtemmys"
+title: "Symmetri: en reise gjennom dimensjoner"
 draft: false
 ShowToc: false
 math: true
@@ -8,7 +8,7 @@ summary: "Torgeir Aambø"
 weight: 5
 ---
 
-En av de første tingene mange tenker på når man prøver å inkorporere matematikk i kunsten er via en eller annen form for symmetri. Et maleri, for eksempel, kan være symmetrisk, men det er mange ulike måter det kan være symmetrisk på. En nyskjerrigper slik som meg selv spør da: hvor mange forskjellige måter kan et maleri være symmetrisk? Hva skjer dersom vi ikke begrenser oss til et flatt maleri, men tillater tredimensjonale skulpturer? Hva med hypotetiske former i høyere dimensjoner? 
+Verden rundt oss er stappfull av symmetri – fra rotasjonssymmetri i blomster, til speilsymmetri i et blikkstille fjellvann. Gjennom inspirasjon fra naturen utspiller symmetri seg også i menneskehetens kunstverker, for eksempel rosevinduet i Nidarosdomen. Mange malerier er også symmetriske, men det er mange ulike måter de kan være symmetriske på. En nyskjerrigper slik som meg selv spør da: hvor mange forskjellige måter kan et maleri være symmetrisk? Hva skjer dersom vi ikke begrenser oss til et flatt maleri, men tillater tredimensjonale skulpturer? Hva med hypotetiske former i høyere dimensjoner? 
 
 Det viser seg at matematikere har perfeksjonert denne kunsten og kan beskrive matematisk en hver måte noe som helst kan være symmetrisk. Denne historien er en av de største bragdene i matematikken, og det hele resulterer i en av høydepunktene av abstrakt matematikk: klassifikasjonen av endelige simple grupper. 
 

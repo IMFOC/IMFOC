@@ -21,7 +21,7 @@ minify:
 languages:
     en:
         languageName: ":flag_gb: English"
-        weight: 1
+        weight: 2
         taxonomies:
           category: categories
           tag: tags
@@ -45,7 +45,7 @@ languages:
 
     tr:
         languageName: ":flag_no: Norsk"
-        weight: 2
+        weight: 1
         title: MK
         taxonomies:
           category: NOcategories
@@ -55,7 +55,7 @@ languages:
           enabled: true
           title: Matematikkens kunst
           imageUrl: "cover.png"
-          imageTitle: test
+          imageTitle: 
           imageWidth: 440
           imageHeight: 450
           subtitle: ""

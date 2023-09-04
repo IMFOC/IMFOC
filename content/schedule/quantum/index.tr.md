@@ -1,5 +1,5 @@
 ---
-title: "Quantum music"
+title: "Kvantemusikk"
 draft: false
 ShowToc: false
 math: true

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright><atom:link href="https://imfoc.github.io/tr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quantum music</title>
+      <title>Kvantemusikk</title>
       <link>https://imfoc.github.io/tr/schedule/quantum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -25,7 +25,16 @@
     </item>
     
     <item>
-      <title>Bevis og sudoku</title>
+      <title>Polynomer og fraktaler</title>
+      <link>https://imfoc.github.io/tr/schedule/fractals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imfoc.github.io/tr/schedule/fractals/</guid>
+      <description>Kael-Mikael Perfekt</description>
+    </item>
+    
+    <item>
+      <title>Sudoku: hvordan enkle spill kan lære oss om dype sannheter</title>
       <link>https://imfoc.github.io/tr/schedule/sudoku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -34,7 +43,7 @@
     </item>
     
     <item>
-      <title>Symmetrirtemmys</title>
+      <title>Symmetri: en reise gjennom dimensjoner</title>
       <link>https://imfoc.github.io/tr/schedule/symmetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
