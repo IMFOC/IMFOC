@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright><atom:link href="https://imfoc.github.io/tr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kvantemusikk</title>
-      <link>https://imfoc.github.io/tr/schedule/quantum/</link>
+      <title>Polynomer og fraktaler</title>
+      <link>https://imfoc.github.io/tr/schedule/fractals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imfoc.github.io/tr/schedule/quantum/</guid>
-      <description>Hans Heum</description>
+      <guid>https://imfoc.github.io/tr/schedule/fractals/</guid>
+      <description>Kael-Mikael Perfekt</description>
     </item>
     
     <item>
@@ -25,16 +25,16 @@
     </item>
     
     <item>
-      <title>Polynomer og fraktaler</title>
-      <link>https://imfoc.github.io/tr/schedule/fractals/</link>
+      <title>Kvantemusikk</title>
+      <link>https://imfoc.github.io/tr/schedule/quantum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://imfoc.github.io/tr/schedule/fractals/</guid>
-      <description>Kael-Mikael Perfekt</description>
+      <guid>https://imfoc.github.io/tr/schedule/quantum/</guid>
+      <description>Hans Heum</description>
     </item>
     
     <item>
-      <title>Sudoku: hvordan enkle spill kan lære oss om dype sannheter</title>
+      <title>Bevis og sudoku</title>
       <link>https://imfoc.github.io/tr/schedule/sudoku/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

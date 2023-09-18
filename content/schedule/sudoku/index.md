@@ -1,5 +1,5 @@
 ---
-title: "Sudoku: how simple games reveal deep truths"
+title: "Proofs and sudokus"
 draft: false
 ShowToc: false
 math: true

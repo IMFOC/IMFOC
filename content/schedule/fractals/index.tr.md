@@ -5,7 +5,7 @@ ShowToc: false
 math: true
 ShowReadingTime: false
 summary: "Kael-Mikael Perfekt"
-weight: 3
+weight: 1
 ---
 
 Ta for deg polynomet $f(z) = z^2 -2$. Vi kan tenke på det som en funksjon, som sender et punkt $z$ i det koplekse planet til et annet punkt $f(z)$. Gitt et punkt $z$ kan vi også studere iterasjonene $z, f(z), f(f(z)), f(f(f(z))), \ldots$. Dersom vi tar $z=0$ får vi for eksempel

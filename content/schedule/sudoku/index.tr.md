@@ -1,5 +1,5 @@
 ---
-title: "Sudoku: hvordan enkle spill kan lære oss om dype sannheter"
+title: "Bevis og sudoku"
 draft: false
 ShowToc: false
 math: true

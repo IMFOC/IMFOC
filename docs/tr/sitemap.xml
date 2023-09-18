@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://imfoc.github.io/tr/schedule/quantum/</loc>
+    <loc>https://imfoc.github.io/tr/schedule/fractals/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imfoc.github.io/schedule/quantum/"
+                href="https://imfoc.github.io/schedule/fractals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://imfoc.github.io/tr/schedule/quantum/"
+                href="https://imfoc.github.io/tr/schedule/fractals/"
                 />
   </url><url>
     <loc>https://imfoc.github.io/tr/schedule/crocheting/</loc>
@@ -26,16 +26,16 @@
                 href="https://imfoc.github.io/tr/schedule/crocheting/"
                 />
   </url><url>
-    <loc>https://imfoc.github.io/tr/schedule/fractals/</loc>
+    <loc>https://imfoc.github.io/tr/schedule/quantum/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imfoc.github.io/schedule/fractals/"
+                href="https://imfoc.github.io/schedule/quantum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://imfoc.github.io/tr/schedule/fractals/"
+                href="https://imfoc.github.io/tr/schedule/quantum/"
                 />
   </url><url>
     <loc>https://imfoc.github.io/tr/schedule/sudoku/</loc>

@@ -5,7 +5,7 @@ ShowToc: false
 math: true
 ShowReadingTime: false
 summary: "Kael-Mikael Perfekt"
-weight: 3
+weight: 1
 ---
 
 Consider the polynomial $f(z) = z^2 - 2$. We think of it as a function, taking a point $z$ of the complex plane into a different point $f(z)$. Given $z$, we also consider the iterations $f^n(z)$ of $z$ under the map $f$. For example, letting $z = 0$ we get 
